@@ -47,7 +47,7 @@ Whether it’s shipping SaaS tools, crafting AI-powered apps, or hacking togethe
 
 ### 📫 Let’s Connect
 
-- 🌐 **Portfolio** → [melvinworks.netlify.app](https://melvinworks.netlify.app)  
+- 🌐 **Portfolio** → [www.mellowsites.com](https://www.mellowsites.com)  
   Peek into my projects, past work, and creative builds.
 
 - 🔗 **Socials Hub** → [melhub.netlify.app](https://melhub.netlify.app)  
