@@ -35,10 +35,6 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 
 ## ✨ Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="340" alt="Projects" />
-</p>
-
 | Project | Status |
 |--------|--------|
 | 🚀 **Current SaaS** | Automation tool for real-world problems *(details coming soon)* |
@@ -117,12 +113,8 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melloom&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Activity" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Melloom&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melloom&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Melloom&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Top language" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Melloom&theme=dark&no-frame=true&no-bg=true&margin-w=6&column=4" alt="Trophies" />
 
 <img src="https://komarev.com/ghpvc/?username=Melloom&style=for-the-badge&color=58A6FF" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Melloom?style=for-the-badge&color=58A6FF" alt="Followers" />
