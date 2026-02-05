@@ -15,7 +15,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 🚀 What I Build
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Building Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Building Animation" />
 </div>
 
 - 🔮 **AI Tools** — Dream interpreters, content generators, social AI assistants
@@ -28,7 +28,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 🧵 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o85xws1fQkRiD9g2M/giphy.gif" width="400" alt="Projects Animation" />
+  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="400" alt="Projects Animation" />
 </div>
 
 *Projects showcase coming soon - currently building cool stuff in private repos!*
@@ -51,7 +51,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 📫 Let's Connect
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4EpT3r4yZJihiGjC/giphy.gif" width="400" alt="Connection Animation" />
+  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="400" alt="Connection Animation" />
 </div>
 
 - 🌐 **Portfolio** → [www.mellowsites.com](https://www.mellowsites.com)  
@@ -67,9 +67,9 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 📊 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melloom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" style="margin-bottom: 20px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melloom&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" style="margin-bottom: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melloom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6fJ1NLBjW5jGjWOK/giphy.gif" width="400" alt="Tech Stack Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Tech Stack Animation" />
 </div>
 
 <div align="center">
@@ -214,7 +214,7 @@ const melvinFacts = {
 
 #### 🎪 Bonus Easter Egg
 <p>
-  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="300" alt="Secret Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Secret Animation" />
 </p>
 *You found the secret section! 🎉*
 
@@ -256,11 +256,11 @@ const melvinFacts = {
 </div>
 
 <p>
-  <img src="https://media.giphy.com/media/du3J2lX14hCxS/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Coding Animation" />
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Learning Animation" />
+  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="300" alt="Learning Animation" />
 </p>
 
 </div>
