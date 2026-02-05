@@ -15,7 +15,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 🚀 What I Build
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Building Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Building Animation" />
 </div>
 
 - 🔮 **AI Tools** — Dream interpreters, content generators, social AI assistants
@@ -28,24 +28,30 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 🧵 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKDT1SqJpB6Iq9C/giphy.gif" width="400" alt="Projects Animation" />
+  <img src="https://media.giphy.com/media/3o85xws1fQkRiD9g2M/giphy.gif" width="400" alt="Projects Animation" />
 </div>
 
-- 🧠 **Dream Interpreter & Manifestation Coach**  
-  NLP-powered dream decoding + daily affirmations. A spiritual tech blend for the TikTok generation.
+*Projects showcase coming soon - currently building cool stuff in private repos!*
 
-- 🤖 **AI Caption Generator**  
-  Automates social media captions with trend-aware GPT prompts and style presets.
+- 🚀 **Current SaaS Project**  
+  Building an automation tool that solves real-world problems (details coming soon)
 
-- 🕹️ **Would You Rather: Survival Edition**  
-  A dark, eerie decision game where every round gets creepier and harder to survive.
+- 🎮 **Game Development**  
+  Working on experimental games with unique mechanics
+
+- 🤖 **AI Experiments**  
+  Exploring AI integrations and automation tools
+
+---
+
+*Want to see my work? Check out my portfolio at [www.mellowsites.com](https://www.mellowsites.com) for live demos and case studies.*
 
 ---
 
 ### 📫 Let's Connect
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lP4xY5JNsQeIY/giphy.gif" width="400" alt="Connection Animation" />
+  <img src="https://media.giphy.com/media/l4EpT3r4yZJihiGjC/giphy.gif" width="400" alt="Connection Animation" />
 </div>
 
 - 🌐 **Portfolio** → [www.mellowsites.com](https://www.mellowsites.com)  
@@ -71,7 +77,7 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Tech Stack Animation" />
+  <img src="https://media.giphy.com/media/3o6fJ1NLBjW5jGjWOK/giphy.gif" width="400" alt="Tech Stack Animation" />
 </div>
 
 <div align="center">
@@ -141,7 +147,9 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 
 ### 📈 Weekly Development Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Melloom&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF6B6B)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Activity" />
+</p>
 
 </div>
 
@@ -160,6 +168,40 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
   <img src="https://img.shields.io/github/followers/Melloom?style=for-the-badge&color=58A6FF" alt="Followers" />
 </p>
 
+<div align="center">
+
+#### 🕹️ Hidden Gems
+- 🎯 **Midnight Coder** - Most productive between 12AM-3AM
+- ☕ **Coffee Powered** - Runs on 3+ cups of coffee daily
+- 🎨 **Color Enthusiast** - Has 23 different VS Code themes installed
+- 🐛 **Bug Magnet** - Attracts bugs like a moth to a flame
+- 🚀 **Speed Demon** - Can deploy to production in under 5 minutes
+
+#### 🎲 Random Developer Facts
+```javascript
+const melvinFacts = {
+  caffeineLevel: "☕☕☕☕☕",
+  codeSpeed: "⚡⚡⚡⚡⚡",
+  bugCount: "🐛🐛🐛🐛🐛",
+  commitFrequency: "🔥🔥🔥🔥🔥"
+};
+```
+
+#### 🎯 Achievements Unlocked
+- 🏆 **Early Bird** - First commit of the day
+- 🌟 **Night Owl** - Last commit of the night  
+- 🚀 **Deploy Master** - 50+ deployments this year
+- 🤖 **AI Whisperer** - Successfully integrated GPT into 3 projects
+- 🎮 **Game Dev** - Built 2 experimental games
+
+#### 🎪 Fun Stats
+- 💻 **Lines of Code Written**: Enough to circle the Earth twice
+- 🐛 **Bugs Fixed**: More bugs than features (that's normal, right?)
+- ☕ **Coffee Consumed**: Could power a small city
+- 🎵 **Coding Playlist**: 200+ hours of focus music
+
+</div>
+
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad." />
 </p>
@@ -167,6 +209,16 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Melloom&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
+<div align="center">
+
+#### 🎪 Bonus Easter Egg
+<p>
+  <img src="https://media.giphy.com/media/3o7aC2IbJ6VD7mM2Wg/giphy.gif" width="300" alt="Secret Animation" />
+</p>
+*You found the secret section! 🎉*
+
+</div>
 
 </div>
 
@@ -177,16 +229,18 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 🌟 Animated Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Melloom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=🚀+Melvin%27s+GitHub+Journey" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melloom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=💻+Most+Used+Languages" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 </div>
 
 ---
+
+<div align="center">
 
 <div align="center">
 
@@ -199,12 +253,14 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 + Contributing to open source 🌍
 ```
 
+</div>
+
 <p>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/du3J2lX14hCxS/giphy.gif" width="300" alt="Coding Animation" />
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Learning Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Learning Animation" />
 </p>
 
 </div>
@@ -216,7 +272,11 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 ### 📊 This Week's Activity
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melloom&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Activity" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melloom&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Profile" />
 </p>
 
 </div>
@@ -225,4 +285,3 @@ Whether it's shipping SaaS tools, crafting AI-powered apps, or hacking together 
 
 > ✨ *Building in public, dreaming big, and coding with intention.*  
 > — **Melvin / Melhub**
-
